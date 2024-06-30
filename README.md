@@ -12,5 +12,4 @@ Meu nome é Rafaella Leonel
 
 rafaellarxv06@gmail.com
 
-
 ![](https://tenor.com/pt-BR/view/broncos-hello-kitty-love-gif-19466274)
