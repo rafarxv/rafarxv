@@ -2,7 +2,7 @@
 
 Meu nome é Rafaella Leonel
 
--Estou estudando na Alura(https://www.alura.com.br)
+-Estou estudando na [Alura](https://www.alura.com.br)
 -Estou me desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -10,7 +10,5 @@ Meu nome é Rafaella Leonel
 
 rafaellarxv06@gmail.com
 
-@lleonelrafa
 
-![]()
-(https://tenor.com/pt-BR/view/broncos-hello-kitty-love-gif-19466274)
+![](https://tenor.com/pt-BR/view/broncos-hello-kitty-love-gif-19466274)
